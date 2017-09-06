@@ -1,2 +1,35 @@
-123456789
-888
+如果将驾驶是一个对话，那么这个对话通过图灵测试的难度在哪里?
+1.Natural language processing ：
+	to  enable it to communicate successfully
+2.Knowledge representation 
+	to store information provided before or during the interrogation
+3.Automated reasoning (自动推理)
+	to use the stored information to answer questions and to draw new conclusions
+
+人脑神经网络《——》人工神经网络
+人脑：100~1000 trillion synapses(突触)
+人工：1~10 billion synapses(突触)
+
+感知算法：
+1.随机权值初始化
+2.对每一个训练集的输入样例，计算感知算法输出结果
+3.如果结果不符合事实（ground truth），调整参数权值
+4.测试下一个样例，直至符合事实，重复2-4步
+
+神经网络普遍性：任何一个函数f（x），都可以用神经网络来表示并估计对于任意的输入
+
+监督学习与非监督学习
+
+缺陷：
+缺乏推理
+需要大量的数据：缺乏对数据的有效提取能力
+需要监督的数据：需要对数据的注释
+需要手动选择网络结构
+需要调整大量参数去训练：
+	learning rate
+	loss function
+	mini-batch size
+	number of training iterations
+	momentum：gradient update smoothing
+	optimizer selection
+
