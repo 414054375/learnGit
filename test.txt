@@ -33,3 +33,13 @@
 	momentum：gradient update smoothing
 	optimizer selection
 
+deep learning突破：
+compute：CPU GPU ASIC(Application-specific integrated circuit)
+Organized large datasets: ImageNet
+algorithms and research:Backprop,CNN,LSTM
+Software and Infrastructure:Git,ROS,PR2,AWS,Amazon Mechanical Turk,TensorFlow...
+
+Deep Learning Terms
+
+Deep Learning = Neural Networks
+Deep Learning 是 Machine Learning 的子集
