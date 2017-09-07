@@ -43,3 +43,22 @@ Deep Learning Terms
 
 Deep Learning = Neural Networks
 Deep Learning 是 Machine Learning 的子集
+
+神经网络每层做什么并不很清楚
+神经网络并不会生成新的节点与层，提前固定的
+
+图分割：cat heatmap
+Vanilla Neural Networks：Back-propogation (梯度下降)
+RNN —— recurrent neural networks(循环神经网络)
+
+Alex Graves “Generating sequences with recurrent neural networks”(2013)
+Andrej Karpathy “The Unreasonable Effectiveness of Recurrent Neural Networks”(2015)
+Jimmy Ba,Volodymyr Mnih,and Koray Kayukcuoglu,"Multicle object recognition with cisual attention"(2014)
+Gregor et al."DRAW:A recurrent neural network for image generation"(2015) https://github.com/ericjang/draw
+Nguyen et al."Deep neural networks are easily fooled:High confidence predictions for unrecognizable images."2015.
+
+神经网络会很容易被噪声迷惑
+
+tensorFlow
+theano
+ConvNetJS Keras.js
